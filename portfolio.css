@@ -189,7 +189,7 @@ button:hover {
     text-shadow: 0 0 20px rgba(255, 255, 255, 0.9);
 }
 
-@media (max-width:1000px) {
+@media (max-width:400px) {
     form{
         width: 375px;
         display: flex;
